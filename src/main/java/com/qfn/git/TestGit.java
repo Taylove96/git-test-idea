@@ -13,5 +13,6 @@ public class TestGit {
         System.out.println("Hello Git5!");
         System.out.println("Hello Git5 from hot_fix");
         System.out.println("Hello remote!");
+        System.out.println("Hello local!");
     }
 }
